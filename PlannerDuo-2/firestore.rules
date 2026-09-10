@@ -1,0 +1,16 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Documento compartilhado do casal: qualquer usuário autenticado pode ler e escrever.
+    // A verificação de quem é membro é feita no app.js (campo 'membros').
+    match /casais/{docId} {
+      allow read, write: if request.auth != null;
+    }
+
+    // Bloqueia todo o resto
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}
