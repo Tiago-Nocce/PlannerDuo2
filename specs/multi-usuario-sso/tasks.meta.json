@@ -1,0 +1,224 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1.1 Implementar `chaveCache(casalId)` e `nomePadrao(email)`": [
+      {
+        "executionId": "a949e1b5-5591-4f02-bcfb-3970b26a1b01",
+        "chatSessionId": "sess_119bd67f-c7a9-46dc-9393-52119851ba44",
+        "timestamp": 1789079250846
+      },
+      {
+        "executionId": "a949e1b5-5591-4f02-bcfb-3970b26a1b01",
+        "chatSessionId": "sess_119bd67f-c7a9-46dc-9393-52119851ba44",
+        "timestamp": 1789079268906
+      },
+      {
+        "executionId": "a949e1b5-5591-4f02-bcfb-3970b26a1b01",
+        "chatSessionId": "sess_119bd67f-c7a9-46dc-9393-52119851ba44",
+        "timestamp": 1789079338035
+      }
+    ],
+    "1.4 Implementar `gerarCodigo()`": [
+      {
+        "executionId": "a949e1b5-5591-4f02-bcfb-3970b26a1b01",
+        "chatSessionId": "sess_119bd67f-c7a9-46dc-9393-52119851ba44",
+        "timestamp": 1789079251523
+      },
+      {
+        "executionId": "a949e1b5-5591-4f02-bcfb-3970b26a1b01",
+        "chatSessionId": "sess_119bd67f-c7a9-46dc-9393-52119851ba44",
+        "timestamp": 1789079270025
+      },
+      {
+        "executionId": "a949e1b5-5591-4f02-bcfb-3970b26a1b01",
+        "chatSessionId": "sess_119bd67f-c7a9-46dc-9393-52119851ba44",
+        "timestamp": 1789079338830
+      }
+    ],
+    "2.1 Implementar `resolverCasalId(store, user)` e `criarEspacoCasal(store, user)`": [
+      {
+        "executionId": "a949e1b5-5591-4f02-bcfb-3970b26a1b01",
+        "chatSessionId": "sess_119bd67f-c7a9-46dc-9393-52119851ba44",
+        "timestamp": 1789079251589
+      },
+      {
+        "executionId": "a949e1b5-5591-4f02-bcfb-3970b26a1b01",
+        "chatSessionId": "sess_119bd67f-c7a9-46dc-9393-52119851ba44",
+        "timestamp": 1789079353959
+      },
+      {
+        "executionId": "a949e1b5-5591-4f02-bcfb-3970b26a1b01",
+        "chatSessionId": "sess_119bd67f-c7a9-46dc-9393-52119851ba44",
+        "timestamp": 1789080241687
+      }
+    ],
+    "3.1 Implementar `aceitarConvite(store, codigo, user, agora)`": [
+      {
+        "executionId": "a949e1b5-5591-4f02-bcfb-3970b26a1b01",
+        "chatSessionId": "sess_119bd67f-c7a9-46dc-9393-52119851ba44",
+        "timestamp": 1789079251656
+      },
+      {
+        "executionId": "a949e1b5-5591-4f02-bcfb-3970b26a1b01",
+        "chatSessionId": "sess_119bd67f-c7a9-46dc-9393-52119851ba44",
+        "timestamp": 1789080266687
+      },
+      {
+        "executionId": "a949e1b5-5591-4f02-bcfb-3970b26a1b01",
+        "chatSessionId": "sess_119bd67f-c7a9-46dc-9393-52119851ba44",
+        "timestamp": 1789080343599
+      }
+    ],
+    "3.4 Implementar `criarConvite(store, casalId, criadoPor, agora)`": [
+      {
+        "executionId": "a949e1b5-5591-4f02-bcfb-3970b26a1b01",
+        "chatSessionId": "sess_119bd67f-c7a9-46dc-9393-52119851ba44",
+        "timestamp": 1789079251696
+      },
+      {
+        "executionId": "a949e1b5-5591-4f02-bcfb-3970b26a1b01",
+        "chatSessionId": "sess_119bd67f-c7a9-46dc-9393-52119851ba44",
+        "timestamp": 1789080267789
+      },
+      {
+        "executionId": "a949e1b5-5591-4f02-bcfb-3970b26a1b01",
+        "chatSessionId": "sess_119bd67f-c7a9-46dc-9393-52119851ba44",
+        "timestamp": 1789080344512
+      }
+    ],
+    "3.6 Implementar persistência round-trip de campos no store": [
+      {
+        "executionId": "a949e1b5-5591-4f02-bcfb-3970b26a1b01",
+        "chatSessionId": "sess_119bd67f-c7a9-46dc-9393-52119851ba44",
+        "timestamp": 1789079251741
+      },
+      {
+        "executionId": "a949e1b5-5591-4f02-bcfb-3970b26a1b01",
+        "chatSessionId": "sess_119bd67f-c7a9-46dc-9393-52119851ba44",
+        "timestamp": 1789079355009
+      },
+      {
+        "executionId": "a949e1b5-5591-4f02-bcfb-3970b26a1b01",
+        "chatSessionId": "sess_119bd67f-c7a9-46dc-9393-52119851ba44",
+        "timestamp": 1789080242406
+      }
+    ],
+    "4. Configurar ambiente de testes": [
+      {
+        "executionId": "a949e1b5-5591-4f02-bcfb-3970b26a1b01",
+        "chatSessionId": "sess_119bd67f-c7a9-46dc-9393-52119851ba44",
+        "timestamp": 1789079251790
+      },
+      {
+        "executionId": "a949e1b5-5591-4f02-bcfb-3970b26a1b01",
+        "chatSessionId": "sess_119bd67f-c7a9-46dc-9393-52119851ba44",
+        "timestamp": 1789080353789
+      }
+    ],
+    "5. Checkpoint - lógica pura e testes de propriedade": [
+      {
+        "executionId": "a949e1b5-5591-4f02-bcfb-3970b26a1b01",
+        "chatSessionId": "sess_119bd67f-c7a9-46dc-9393-52119851ba44",
+        "timestamp": 1789079251861
+      }
+    ],
+    "6.1 Remover `CASAL_DOC_ID` e os fallbacks `nome1:'Tiago'`/`nome2:'Yasmin'`; adicionar `Estado.casalId`": [
+      {
+        "executionId": "a949e1b5-5591-4f02-bcfb-3970b26a1b01",
+        "chatSessionId": "sess_119bd67f-c7a9-46dc-9393-52119851ba44",
+        "timestamp": 1789079251895
+      }
+    ],
+    "7.1 Implementar `Auth.resolverCasalId(user)` e `Auth._criarEspacoCasal(user)`": [
+      {
+        "executionId": "a949e1b5-5591-4f02-bcfb-3970b26a1b01",
+        "chatSessionId": "sess_119bd67f-c7a9-46dc-9393-52119851ba44",
+        "timestamp": 1789079251933
+      }
+    ],
+    "8.1 Trocar `CASAL_DOC_ID` por `Estado.casalId` e derivar cache com `chaveCache()`": [
+      {
+        "executionId": "a949e1b5-5591-4f02-bcfb-3970b26a1b01",
+        "chatSessionId": "sess_119bd67f-c7a9-46dc-9393-52119851ba44",
+        "timestamp": 1789079251967
+      }
+    ],
+    "8.3 Atualizar `logout` para remover cache e ponteiro do usuário": [
+      {
+        "executionId": "a949e1b5-5591-4f02-bcfb-3970b26a1b01",
+        "chatSessionId": "sess_119bd67f-c7a9-46dc-9393-52119851ba44",
+        "timestamp": 1789079252009
+      }
+    ],
+    "9.1 Implementar `Convites.gerarCodigo/criar/abrirModal/aceitar`": [
+      {
+        "executionId": "a949e1b5-5591-4f02-bcfb-3970b26a1b01",
+        "chatSessionId": "sess_119bd67f-c7a9-46dc-9393-52119851ba44",
+        "timestamp": 1789079252047
+      }
+    ],
+    "10.1 Adicionar modais `modal-convite-gerar` e `modal-convite-aceitar` e item de sidebar \"Convidar parceiro(a)\"": [
+      {
+        "executionId": "a949e1b5-5591-4f02-bcfb-3970b26a1b01",
+        "chatSessionId": "sess_119bd67f-c7a9-46dc-9393-52119851ba44",
+        "timestamp": 1789079252091
+      }
+    ],
+    "11. Checkpoint - integração cliente": [
+      {
+        "executionId": "a949e1b5-5591-4f02-bcfb-3970b26a1b01",
+        "chatSessionId": "sess_119bd67f-c7a9-46dc-9393-52119851ba44",
+        "timestamp": 1789079252138
+      }
+    ],
+    "12.1 Implementar regras para `casais/{casalId}` e `convites/{codigo}`": [
+      {
+        "executionId": "a949e1b5-5591-4f02-bcfb-3970b26a1b01",
+        "chatSessionId": "sess_119bd67f-c7a9-46dc-9393-52119851ba44",
+        "timestamp": 1789079252185
+      }
+    ],
+    "13.1 Escrever script de migração por ponteiro (sem cópia de dados)": [
+      {
+        "executionId": "a949e1b5-5591-4f02-bcfb-3970b26a1b01",
+        "chatSessionId": "sess_119bd67f-c7a9-46dc-9393-52119851ba44",
+        "timestamp": 1789079252234
+      }
+    ],
+    "14.1 Limpar `auth.html` e `Auth._bloquear`": [
+      {
+        "executionId": "a949e1b5-5591-4f02-bcfb-3970b26a1b01",
+        "chatSessionId": "sess_119bd67f-c7a9-46dc-9393-52119851ba44",
+        "timestamp": 1789079252283
+      }
+    ],
+    "15. Checkpoint final - toda a suíte de testes": [
+      {
+        "executionId": "a949e1b5-5591-4f02-bcfb-3970b26a1b01",
+        "chatSessionId": "sess_119bd67f-c7a9-46dc-9393-52119851ba44",
+        "timestamp": 1789079252327
+      }
+    ],
+    "1. Extrair funções puras com store injetável (fundação testável)": [
+      {
+        "executionId": "a949e1b5-5591-4f02-bcfb-3970b26a1b01",
+        "chatSessionId": "sess_119bd67f-c7a9-46dc-9393-52119851ba44",
+        "timestamp": 1789079338872
+      }
+    ],
+    "2. Implementar resolução de casalId (lógica pura sobre store)": [
+      {
+        "executionId": "a949e1b5-5591-4f02-bcfb-3970b26a1b01",
+        "chatSessionId": "sess_119bd67f-c7a9-46dc-9393-52119851ba44",
+        "timestamp": 1789080241742
+      }
+    ],
+    "3. Implementar aceite de convite (lógica pura sobre store)": [
+      {
+        "executionId": "a949e1b5-5591-4f02-bcfb-3970b26a1b01",
+        "chatSessionId": "sess_119bd67f-c7a9-46dc-9393-52119851ba44",
+        "timestamp": 1789080344563
+      }
+    ]
+  }
+}
